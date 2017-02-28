@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/ArtsemHoldvekht/ClionProjects/SinglyLinkedList/list.cpp
+list.h
+/Users/ArtsemHoldvekht/ClionProjects/SinglyLinkedList/list.h
+
+/Users/ArtsemHoldvekht/ClionProjects/SinglyLinkedList/list.h
+iostream
+-
+
+/Users/ArtsemHoldvekht/ClionProjects/SinglyLinkedList/main.cpp
+iostream
+-
+list.h
+/Users/ArtsemHoldvekht/ClionProjects/SinglyLinkedList/list.h
+
